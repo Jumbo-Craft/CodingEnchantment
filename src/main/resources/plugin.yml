@@ -1,0 +1,4 @@
+name: CodingEnchantment
+version: '1.0-SNAPSHOT'
+main: io.github.smile_ns.codingEnchantment.CodingEnchantment
+api-version: '1.21'
